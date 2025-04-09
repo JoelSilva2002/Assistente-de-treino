@@ -14,7 +14,7 @@ API REST em Java (Spring Boot) para ajudar no controle de treinos, com sugestõe
 
 ## 🛠️ Tecnologias
 
-- Java 17
+- Java 21
 - Spring Boot
 - Maven
 - Spring Data JPA
