@@ -29,5 +29,29 @@ build/
 !**/src/main/**/build/
 !**/src/test/**/build/
 
-### VS Code ###
+# Compilados do Java
+*.class
+
+# Diretórios do Maven
+target/
+
+# Arquivos de log
+*.log
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos do IntelliJ / Eclipse / VS Code
+.idea/
+*.iml
+*.iws
+*.ipr
 .vscode/
+*.sw?
+
+# Arquivos de ambiente
+.env
+*.properties.local
+application-dev.properties
+application-test.properties
